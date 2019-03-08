@@ -1,0 +1,150 @@
+.cabecalho{
+    background-color: #F5AD3A;
+    padding: 2%;
+}
+
+.logo_home{
+    width: 8%;
+    margin: 2%;
+    margin-right: 2%;
+    float: right;
+}
+
+.titulo{
+    margin-left: 2%;
+}
+
+body{
+    background: url(../imagens/background_home.jpg) no-repeat;
+    background-size: 100%;
+}
+
+.resumo{
+    width: 60%;
+    padding-left: 4%;
+    font-family: helvetica;
+}
+
+.section_home{
+    float: left;
+    margin-top: 10%;
+    border: solid;
+    border-radius: 5%;
+    padding: 5%;
+    background-color: #F5AD3A;
+}
+
+.botao_home_entrar{
+    font-family: arial;
+    font-size:14px;
+    text-transform: uppercase;
+    font-weight:700;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+    display:inline-block;
+    text-decoration: none;
+    background:red;
+    color:#fff;
+    border-radius: 5%;
+}
+
+.botao_home_criar{
+    font-family: arial;
+    font-size:14px;
+    text-transform: uppercase;
+    font-weight:700;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+    display:inline-block;
+    text-decoration: none;
+    margin-left: 8%;
+    background:green;
+    color:#fff;
+    border-radius: 5%;
+}
+
+.imagem_dog_home{
+    float: left;
+    margin: 6%;
+    width: 29%;
+}
+
+.imagem_cat_home{
+    float: left;
+    margin: 4%;
+    width: 34%;
+    margin-top: 8%;
+}
+
+.rodape{
+    float: left;
+    background-color: #55A7FF;
+    padding: 3%;
+    padding-right: 10%;
+    font-size: 20px;
+    text-decoration-color: white;
+    color: white;
+    margin-bottom: 3%;
+}
+
+text{
+    font-size: 20px;
+}
+
+.coluna1{
+    margin-left: 3%;
+    float: left;
+    background-color: aliceblue;
+    border: solid;
+    padding: 2%;
+}
+
+.post1{
+    border: solid;
+    float: left;
+    padding: 5%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    background-color: aliceblue;
+    width: 30%;
+}
+
+.doguito{
+    width: 100%;
+}
+
+.user1{
+    width: 10%;
+}
+
+.nomeUser{
+    float: right;
+    margin-right: 60%;
+}
+
+.like{
+    width: 8%;
+}
+
+.contato{
+    width: 8%;
+    margin-left: 5%;
+}
+
+.mais{
+    width: 7%;
+    margin-left: 5%;
+}
+
+.anuncio{
+    width: 20%;
+    margin-left: 10%;
+    height: 50%;
+}
+
+.anuncio2{
+    width: 20%;
+    margin-left: 10%;
+}

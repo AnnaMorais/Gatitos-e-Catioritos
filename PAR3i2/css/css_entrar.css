@@ -1,0 +1,87 @@
+.cabecalho{
+    background-color: #F5AD3A;
+    padding: 2%;
+}
+
+.logo_home{
+    width: 8%;
+    margin: 2%;
+    margin-right: 2%;
+    float: right;
+}
+
+.titulo{
+    margin-left: 2%;
+}
+
+body{
+    background: url(../imagens/background_home.jpg) no-repeat;
+    background-size: 100%;
+}
+
+.resumo{
+    width: 60%;
+    padding-left: 4%;
+    font-family: helvetica;
+}
+
+.section_home{
+    float: left;
+    margin-top: 7%;
+    border: solid;
+    border-radius: 5%;
+    padding: 1%;
+    background-color: #F5AD3A;
+    padding-bottom: 3%;
+}
+
+.botao_entrar{
+    font-family: arial;
+    font-size:14px;
+    text-transform: uppercase;
+    font-weight:700;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+    display:inline-block;
+    text-decoration: none;
+    background: green;
+    color:#fff;
+    border-radius: 5%;
+    align-self: center;
+    float: right;
+    margin-right: 4%;
+    width: 30%;
+    height: 40px;
+}
+
+.imagem_dog_home{
+    float: left;
+    margin: 5%;
+    width: 29%;
+}
+
+.imagem_cat_home{
+    float: left;
+    margin: 2%;
+    width: 34%;
+    margin-top: 8%;
+}
+
+.rodape{
+    float: left;
+    background-color: #55A7FF;
+    padding: 3%;
+    padding-right: 10%;
+    font-size: 20px;
+    text-decoration-color: white;
+    color: white;
+    margin-bottom: 3%;
+}
+
+.input{
+    width: 90%;
+    height: 30px;
+    border-radius: 5%;
+    color: grey;
+}
